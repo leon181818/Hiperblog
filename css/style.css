@@ -1,6 +1,6 @@
 body
 {
-    color: #333;
+    color: blue;
     text-align: center;
     font-family: arial;
     margin: 0;
@@ -8,9 +8,9 @@ body
 }
 #container
 {
-    width: 60%;
+    width: 80%;
     padding: 1em;
-    text-align: left;
+    text-align: center;
     border : 1px solid #DDD;
     margin: 0 auto;
 }
@@ -18,4 +18,24 @@ body
 #container h1
 {
     font-size: 30px;
+
+}
+#tagline 
+{
+    font-size: 30px;
+    font-family: arial black;
+  color: whitesmoke;
+    text-align: center;
+    border-color: blue;
+    background: blue;
+}
+
+#cabecera 
+{
+    font-size: 40px;
+    font-family: arial black;
+  color: red;
+    text-align: center;
+    border-color: blue;
+    background: blue;
 }
